@@ -1,8 +1,14 @@
 module.exports = {
   purge: ['./components/**/*.js', './pages/**/*.js'],
+  darkMode: 'media',
   theme: {
     extend: {
       colors: {
+        dark: '#242D3E',
+        light: '#EFF2F1',
+        blue: '#0EC9EB',
+        purple: '#4D1B9F',
+        yellow: '#F4B942',
         'accent-1': '#FAFAFA',
         'accent-2': '#EAEAEA',
         'accent-7': '#333',

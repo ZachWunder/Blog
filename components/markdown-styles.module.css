@@ -22,5 +22,5 @@
 }
 
 .markdown a {
-  @apply underline text-blue-800 hover:text-blue-500
+  @apply underline text-blue hover:text-purple
 }
