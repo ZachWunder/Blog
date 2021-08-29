@@ -4,7 +4,7 @@ import Image from 'next/image'
 
 export default function CoverImage({ title, src, slug }) {
   const image = (
-    <Image
+    <img
       src={src}
       alt={`Cover Image for ${title}`}
       className={cn('shadow-small', {
