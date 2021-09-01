@@ -1,12 +1,12 @@
 ---
 title: 'AWS Cognito Anti-Patterns #1: The Sub Value'
 excerpt: "AWS Cognito offers incredibly cheap and scalable user authentication as a service. However, there's a number of problems that become apparent only after you begin using the service."
-coverImage: '/assets/blog/hello-world/cover.jpg'
+coverImage: '/assets/blog/cognito/trianglify.svg'
 date: '2021-08-24T05:35:07.322Z'
 author:
   name: Zach Wunder
 ogImage:
-  url: '/assets/blog/hello-world/cover.jpg'
+  url: '/assets/blog/cognito/trianglify.svg'
 ---
 AWS Cognito offers incredibly cheap and scalable user authentication as a service. But these benefits come at an unexpected cost: some features seem to run contrary to standard design patterns. One such anti-pattern occurs with *sub* values during user pool migration.
 
