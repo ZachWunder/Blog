@@ -1,0 +1,17 @@
+{
+  "name": "Zach Wunder",
+  "short_name": "ZTW Blog",
+  "icons": [
+    {
+      "src": "/favicons/favicon.svg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/favicons/favicon.svg",
+      "sizes": "512x512"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone"
+}

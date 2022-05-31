@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="SVGRoot" width="451.27" height="181" version="1.1" viewBox="0 0 451.27 181" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g transform="translate(145.5,-204.5)">
+  <text x="-220" y="220" fill="#000000" font-family="sans-serif" font-size="40px" letter-spacing="0px" word-spacing="0px" style="line-height:1.25" xml:space="preserve"><tspan x="-220" y="220"/></text>
+  <g fill="#242d3e" stroke="#000" stroke-width="0">
+   <path d="m-145 205h170l-80 115h-55l55-75h-90z" style="mix-blend-mode:normal"/>
+   <path d="m-125 345-20 25v15h160v-40z"/>
+   <path d="m45 205h40l40 95h5l40-95h10l40 95h5l40-95h40l-80 180h-10l-40-95-40 95h-10z"/>
+  </g>
+ </g>
+</svg>
