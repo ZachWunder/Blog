@@ -28,11 +28,9 @@ export default function Post({ post, morePosts, preview }) {
                 <title>
                   {post.title} | Zach's Blog
                 </title>
-                <meta property="og:image" content={post.ogImage.url} />
               </Head>
               <PostHeader
                 title={post.title}
-                coverImage={post.coverImage}
                 date={post.date}
                 author={post.author}
               />
