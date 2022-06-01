@@ -8,8 +8,8 @@ export default function Example({ posts }) {
         >
           <a href={`/posts/${post.slug}`} className="focus:outline-none">
             <div className="min-w-0 min-h-max text-center">
-                <p className="text-sm font-medium text-gray-900">{post.title}</p>
-                <p className="text-sm text-gray-500">{post.summary}</p>
+                <p className="text-lg font-medium text-gray-900">{post.title}</p>
+                <p className="text-base text-gray-500">{post.summary}</p>
             </div>
           </a>
         </div>
