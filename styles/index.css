@@ -19,7 +19,7 @@
     }
     
     a {
-        @apply underline text-light hover:text-blue
+        @apply underline dark:text-light hover:text-blue
     }
     
 }

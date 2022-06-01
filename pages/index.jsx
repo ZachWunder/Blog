@@ -7,6 +7,7 @@ import Link from 'next/link'
 
 const WorkIntro = () => (
   <div>
+    <h2>Work Accomplishments</h2>
     <p>
     I’m a self-taught Software Engineer by trade. I currently lead the Software Development team at Pod, first joining as a Full-Stack Engineer. Today, I navigate the challenges of building software as a team in a fast-paced startup environment, along with managing multiple AWS-based systems and making high-level technical decisions across the organization.
     </p>
@@ -22,7 +23,7 @@ const WorkIntro = () => (
 const WritingCTA = () => (
   <div>
     <p>
-    Please feel free to check out my writing, where I reflect on my personal experiences openly, as well as discuss ideas for future work. It’s an open invitation for discussion and I’d love to hear from you.
+    I encourage you to take a look at the blog section of this website. I reflect on my personal experiences openly, as well as discuss ideas for future work. It’s an open invitation for discussion and I’d love to hear from you.
     </p>
   </div>
 )
@@ -52,8 +53,8 @@ export default function Index({ allPosts }) {
         <Container className='flex center'>
           <Intro currentTab='About' />
           <article className="prose-lg divide-slate-400/50 divide-y mx-auto max-w-prose flex flex-col mt-4 space-y-5">
+            {/* <Passion /> */}
             <WorkIntro />
-            <Passion />
             <WritingCTA />
             <ContactInfo />
           </article>
