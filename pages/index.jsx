@@ -51,7 +51,7 @@ export default function Index({ allPosts }) {
         </Head>
         <Container className='flex center'>
           <Intro currentTab='About' />
-          <article className="prose-lg divide-slate-400/75 divide-y mx-auto max-w-prose flex flex-col mt-4 space-y-5">
+          <article className="prose-lg divide-slate-400/50 divide-y mx-auto max-w-prose flex flex-col mt-4 space-y-5">
             <WorkIntro />
             <Passion />
             <WritingCTA />
