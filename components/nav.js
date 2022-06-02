@@ -27,7 +27,7 @@ export default function Nav({ currentTab }) {
               className={classNames(
                 tab.name === currentTab
                   ? 'border-darkPurple text-purple'
-                  : 'border-dark dark:border-transparent dark:text-light hover:text-gray-700 hover:border-gray-300 text-dark',
+                  : 'border-dark dark:border-transparent dark:text-light hover:text-darkerPurple hover:border-darkerPurple text-dark',
                 'w-1/4 py-4 px-1 text-center border-b-2 font-bold text-medium no-underline'
               )}
               aria-current={tab.current ? 'page' : undefined}
