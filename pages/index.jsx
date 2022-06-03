@@ -7,7 +7,7 @@ import Link from 'next/link'
 
 const WorkIntro = () => (
   <div>
-    <h2>Work Accomplishments</h2>
+    <h3>Work Accomplishments</h3>
     <p>
     I’m a self-taught Software Engineer by trade. I currently lead the Software Development team at Pod, first joining as a Full-Stack Engineer. Today, I navigate the challenges of building software as a team in a fast-paced startup environment, along with managing multiple AWS-based systems and making high-level technical decisions across the organization.
     </p>
