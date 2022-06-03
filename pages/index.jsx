@@ -25,11 +25,6 @@ const WritingCTA = () => (
     <p>
     I encourage you to take a look at the blog section of this website. I reflect on my personal experiences openly, as well as discuss ideas for future work. It’s an open invitation for discussion and I’d love to hear from you.
     </p>
-  </div>
-)
-
-const ContactInfo = () => (
-  <div>
     <p>
       You can reach me on <a href="https://www.linkedin.com/in/zach-wunder/">LinkedIn</a> or by email at {'\u007a\u0061\u0063\u0068\u0077\u0075\u006e\u0064\u0065\u0072\u005b\u0061\u0074\u005d\u0067\u006d\u0061\u0069\u006c\u005b\u0064\u006f\u0074\u005d\u0063\u006f\u006d'}
     </p>
@@ -38,11 +33,21 @@ const ContactInfo = () => (
 
 const Passion = () => (
   <div>
+    <p className="italic font-thin">
+      Hi, my name is Zach Wunder. 
+    </p>
     <p>
-      I have a demonstrated passion for software, but my ambitions extend far beyond it. I believe that our ability to innovate and build new tools is what uniquely distinguishes humanity and enables our success. My interest lies in innovation and invention’s that push our ability to provide for ourselves and others further.
+      I am internally motivated by the process of creation and strongly believe in the power of innovation to provide for humanity.  I’m inspired by far out ideas, and willing to accept a high-risk of failure in order to validate them. I believe there’s a large amount of inefficiencies that we accept as standard practice solely because they’re well-known.
+    </p>
+    <p>
+      As a self-described generalist, I’m deeply interested in exploring the intersection between software and many other fields. I view my professional life as an experiment to see what this approach can accomplish, specifically in terms of making a positive impact on the world.
+    </p>
+    <p>
+      I’m currently looking for an opportunity that can <a href="https://blog.samaltman.com/how-to-be-successful">make the rest of my resume look like a footnote, if successful.</a>
     </p>
   </div>
 )
+
 export default function Index({ allPosts }) {
   return (
     <>
@@ -52,11 +57,10 @@ export default function Index({ allPosts }) {
         </Head>
         <Container className='flex center'>
           <Intro currentTab='About' />
-          <article className="prose-lg divide-slate-400/50 divide-y mx-auto max-w-prose flex flex-col mt-4 space-y-5">
-            {/* <Passion /> */}
+          <article className="prose-lg divide-slate-400/50 divide-y mx-auto max-w-prose flex flex-col mt-2 space-y-2">
+            <Passion />
             <WorkIntro />
             <WritingCTA />
-            <ContactInfo />
           </article>
         </Container>
       </Layout>
