@@ -18,7 +18,7 @@ export default function Nav({ currentTab }) {
   const router = useRouter()
   return (
     <div>
-      <div className="border-b border-gray-200">
+      <div className="border-b font-header border-gray-200">
         <nav className="-mb-px flex justify-center" aria-label="Tabs">
           {tabs.map((tab) => (
             <a
