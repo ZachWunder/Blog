@@ -1,9 +1,10 @@
 ---
-title: 'A Story of a Self-Taught Engineer'
-summary: ""
+title: 'A Story of a "Self-Taught" Engineer'
+summary: "My experience as a software engineer who started working straight out of high school."
 date: '2022-09-28T04:35:07.322Z'
 author:
   name: Zach Wunder
+category: Self
 ---
 My intention is this essay is as far from persuasive as possible. I aim to share my professional experience as someone who knew what they wanted but was unsatisfied with the typical path of getting there. 
 
@@ -51,7 +52,7 @@ Sure enough, seven months in those doubts made their way into reality. I was wor
 
 I felt I was already doing the work for it, my boss the same, but a college degree was listed as a requirement on the job posting nonetheless. The wheels and cogs of process churned along for months. I was finally feeling the cold pressure of the glass ceilings I was forewarned of.
 
-I took it personally at the time, the fears I had of not being able to transition my job to a career were coming true. The message I heard was that I wasn’t capable of doing a good job without a degree. The reality was I was an edge case in a massive system that took time to figure out.
+I took it personally at the time, the fears I had of not being able to transition my job to a career were coming true. The message I heard was that I wasn’t capable of doing a good job without a degree. The reality was that I was an edge case in a massive system that took time to figure out.
 
 ---
 
@@ -93,7 +94,7 @@ Overall, I’m appreciative of both opportunities for their differences. I was s
 
 ---
 
-Being self-taught has had its benefits, some of unanticipated and underestimated magnitude. Being comfortable without a curriculum has helped me navigate the uncertainties and autonomy of life at a startup. Over time, I’ve come to be comfortable with not having a well-defined path to success ahead of me.
+Being self-taught has had its benefits, some of unanticipated and underestimated magnitude. Being comfortable without a curriculum has helped me navigate the uncertainties and autonomy of life at a startup. Over time, I’ve also come to be comfortable with not having a well-defined path to success ahead of me.
 
 My tolerance for risk has grown from this experience as well. At each transition I depleted some of that tolerance, but in time as things stabilized, it has come back, plus more. Coming out on the other side each time has made me reevaluate what is truly risky versus what I’m just scared of.
 
@@ -107,6 +108,6 @@ There have been social challenges. It’s easy to hear the praise for those arou
 
 There have also been mental challenges. It’s hard not to base your metric of success off of what the people you respect value. There’s doubt that you won’t end up relegated to lower level positions for the rest of your career. And there’s always the feeling that if you had just listened to common wisdom and worked hard, you would be the one with prestigious education and the quarter million dollar FAANG salary.
 
-Even with a carefully crafted plan I wouldn’t blame someone else for having those feelings. But I definitely didn’t have that. Many of my decisions were deluded with arrogance, stubbornness, and a lack of determination. 
+Even with a carefully crafted plan I wouldn’t blame someone else for having those feelings. But I definitely didn’t have a plan like that. Many of my decisions were deluded with arrogance, stubbornness, and a lack of determination. 
 
 I say these things because it’s certainly not the path of least resistance. But I do get to say that my path has been authentic to who I am, for better or worse. Frankly, there’s no other way things could have gone.

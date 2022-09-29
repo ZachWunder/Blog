@@ -4,7 +4,7 @@ summary: "AWS Cognito offers incredibly cheap and scalable user authentication a
 date: '2021-08-24T05:35:07.322Z'
 author:
   name: Zach Wunder
-
+category: Programming
 ---
 AWS Cognito offers incredibly cheap and scalable user authentication as a service. But these benefits come at an unexpected cost: some features seem to run contrary to standard design patterns. One such anti-pattern occurs with *sub* values during user pool migration.
 

@@ -1,13 +1,11 @@
 import Link from 'next/link'
-import Image from 'next/image'
-import BackArrow from './backArrow.tsx'
 
 export default function Header() {
   return (
-    <div className="stroke-white h-6 mb-20 mt-8">
+    <h2 className="text-2xl md:text-4xl leading-tight mb-8 mt-8">
       <Link href="/blog">
-        <BackArrow />
+        <a className="hover:underline">Zach Wunder</a>
       </Link>
-    </div>
+    </h2>
   )
 }
