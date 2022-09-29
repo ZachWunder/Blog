@@ -38,7 +38,7 @@ For the prior few years I had had regular conversations about my future with the
 
 After graduating high school, I continued my employment at Belkin full-time and began community college concurrently. My plan wasn’t to skip out completely on school. I intended instead to string it along while I focused on a career in programming, keeping it open as a backup option.
 
-At times, reality hit harder than I had expected, despite numerous warnings. The reality being that I was eighteen, making minimum wage at a job that, while I loved, didn’t have a clear path to becoming a sustainable, successful career. Still, I often acted nonchalant about what the future held for me with my family, which was a really great way to instill confidence in them.
+At times, reality hit harder than I had expected, despite numerous warnings. The reality being that I was eighteen, making minimum wage at a job that, while I loved, didn’t have a clear path to becoming a sustainable, successful career. Still, I often acted nonchalant about what the future held for me with my family, which was a terrible way to instill confidence in them.
 
 Despite this, working and studying full-time allowed me to maintain their support, as well as give myself some security knowing I had a fallback. Even if it meant weaving through LA traffic after work to get to the 5:30pm-8:30pm Calculus 2 class on time.
 
@@ -106,7 +106,7 @@ I’ve been asked about my experience from people even younger than myself a few
 
 There have been social challenges. It’s easy to hear the praise for those around you who get into great schools as comparative. Some people will look at you differently when you tell them you aren’t going to college. It takes more effort to build a great network.
 
-There have also been mental challenges. It’s hard not to base your metric of success off of what the people you respect value. There’s doubt that you won’t end up relegated to lower level positions for the rest of your career. And there’s always the feeling that if you had just listened to common wisdom and worked hard, you would be the one with prestigious education and the quarter million dollar FAANG salary.
+There have also been mental challenges. It’s hard not to base your metric of success off of what the people you respect value. There’s doubt that you'll be relegated to lower level positions for the rest of your career. And there’s always the feeling that if you had just listened to common wisdom and worked hard, you would be the one with prestigious education and the quarter million dollar FAANG salary.
 
 Even with a carefully crafted plan I wouldn’t blame someone else for having those feelings. But I definitely didn’t have a plan like that. Many of my decisions were deluded with arrogance, stubbornness, and a lack of determination. 
 
