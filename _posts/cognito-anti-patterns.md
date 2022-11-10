@@ -4,7 +4,7 @@ summary: "AWS Cognito offers incredibly cheap and scalable user authentication a
 date: '2021-08-24T05:35:07.322Z'
 author:
   name: Zach Wunder
-
+category: Programming
 ---
 AWS Cognito offers incredibly cheap and scalable user authentication as a service. But these benefits come at an unexpected cost: some features seem to run contrary to standard design patterns. One such anti-pattern occurs with *sub* values during user pool migration.
 
@@ -46,4 +46,4 @@ environments this is far more complex.
 The largest drawback with this approach is that you will have to repeat this process *every time you want to make changes to your user pool*.
 
 ## Summary
-Even though it makes sense initially to use the *sub* value of a user in Cognito as their unique identifier, you should think twice before doing so. I'm unsure of why such a critical and valuable service such as Cognito is so neglected by AWS, but after facing these issues on top of many more, I've decided to use Okta for user authentication for our web app. Especially in the light of more advanced authorization requirements such as RBAC and multi-tenancy, with SAML/SSO coming down the line, it's a much better service even though it is significantly more expensive.
+Even though it makes sense initially to use the *sub* value of a user in Cognito as their unique identifier, you should think twice before doing so. I'm unsure of why such a critical and valuable service such as Cognito is so neglected by AWS, but after facing these issues on top of many more, I've decided to use Okta for user authentication for our web app. Especially in light of more advanced authorization requirements such as RBAC and multi-tenancy, with SAML/SSO coming down the line, it's a much better service even though it is significantly more expensive.

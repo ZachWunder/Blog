@@ -10,6 +10,7 @@ module.exports = {
         blue: '#0EC9EB',
         purple: '#ca95d0',
         darkPurple: '#be65c8',
+        darkerPurple: '#6b1b74',
         yellow: '#F4B942',
         'accent-1': '#FAFAFA',
         'accent-2': '#EAEAEA',
@@ -31,6 +32,9 @@ module.exports = {
         '6xl': '2.75rem',
         '7xl': '4.5rem',
         '8xl': '6.25rem',
+      },
+      fontFamily: {
+        header: 'Nunito, sans-serif'
       },
       boxShadow: {
         small: '0 5px 10px rgba(0, 0, 0, 0.12)',
