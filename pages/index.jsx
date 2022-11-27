@@ -30,7 +30,7 @@ const MeIntro = () => (
     At work, I'm a full-stack Software Engineer with experience leading teams in a startup environment. 
     </p>
     <p>
-    Outside of work, I’ve always enjoyed creating things for myself. In the past, I’ve built an algorithmic trading platform, long-term financial planning software, a personal knowledge management application, and an attempt at uncovering universal truths using ML.
+    Outside of work, I’ve always enjoyed creating things for myself. In the past, I’ve built an algorithmic trading platform, long-term financial planning software, a personal knowledge management application, and an ML application leveraging Sentence Transformers to discover common ideas on the web.
     </p>
     <p>
     I’m still interested in software, but I’m also expanding into other disciplines in order to build more real-world ideas. Right now I’m working on low cost, nearly fully automated and space-efficient horticulture. In the future, I want to integrate this, and more ideas that automate the local production of essentials, into building self-sustaining, multi-building properties.
