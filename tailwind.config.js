@@ -4,19 +4,8 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        lighter: '#9EB7C7',
-        dark: '#242D3E',
-        light: '#EFF2F1',
-        blue: '#0EC9EB',
-        purple: '#ca95d0',
-        darkPurple: '#be65c8',
-        darkerPurple: '#6b1b74',
-        yellow: '#F4B942',
-        'accent-1': '#FAFAFA',
-        'accent-2': '#EAEAEA',
-        'accent-7': '#333',
-        success: '#0070f3',
-        cyan: '#79FFE1',
+        accent: "#4D9078"
+
       },
       spacing: {
         28: '7rem',

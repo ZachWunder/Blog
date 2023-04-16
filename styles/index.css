@@ -15,11 +15,11 @@
 /* Your own custom utilities */
 @layer base {
     body {
-        @apply bg-light dark:bg-dark text-dark dark:text-light
+        @apply bg-white dark:bg-black text-black dark:text-white
     }
     
     a {
-        @apply underline dark:text-light hover:text-darkerPurple
+        @apply underline dark:text-accent hover:text-accent
     }
     
 }
